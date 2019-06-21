@@ -1,0 +1,12 @@
+C:\Users\Endeavor\source\repos\Psyconnect\Psyconnect\Psyconnect\bin\Debug\netstandard2.0\Psyconnect.deps.json
+C:\Users\Endeavor\source\repos\Psyconnect\Psyconnect\Psyconnect\bin\Debug\netstandard2.0\Psyconnect.dll
+C:\Users\Endeavor\source\repos\Psyconnect\Psyconnect\Psyconnect\bin\Debug\netstandard2.0\Psyconnect.pdb
+C:\Users\Endeavor\source\repos\Psyconnect\Psyconnect\Psyconnect\obj\Debug\netstandard2.0\Psyconnect.csprojAssemblyReference.cache
+C:\Users\Endeavor\source\repos\Psyconnect\Psyconnect\Psyconnect\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Endeavor\source\repos\Psyconnect\Psyconnect\Psyconnect\obj\Debug\netstandard2.0\Psyconnect.csproj.CoreCompileInputs.cache
+C:\Users\Endeavor\source\repos\Psyconnect\Psyconnect\Psyconnect\obj\Debug\netstandard2.0\Psyconnect.AssemblyInfoInputs.cache
+C:\Users\Endeavor\source\repos\Psyconnect\Psyconnect\Psyconnect\obj\Debug\netstandard2.0\Psyconnect.AssemblyInfo.cs
+C:\Users\Endeavor\source\repos\Psyconnect\Psyconnect\Psyconnect\obj\Debug\netstandard2.0\Psyconnect.dll
+C:\Users\Endeavor\source\repos\Psyconnect\Psyconnect\Psyconnect\obj\Debug\netstandard2.0\Psyconnect.pdb
+C:\Users\Endeavor\source\repos\Psyconnect\Psyconnect\Psyconnect\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Endeavor\source\repos\Psyconnect\Psyconnect\Psyconnect\obj\Debug\netstandard2.0\XamlC.stamp
